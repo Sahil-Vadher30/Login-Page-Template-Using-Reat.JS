@@ -1,0 +1,10 @@
+.box{
+    width: 529px;
+    height: 550px;
+    /* border: 2px solid gray; */
+}
+
+.box .image{
+    max-width: 500;
+    max-height: 500;
+}
